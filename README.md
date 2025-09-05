@@ -20,5 +20,5 @@ It was developed as part of an academic assignment in advanced C programming.
 
 ## How to Compile & Run
 ```bash
-gcc string-file-processor.c -o processor
+gcc file-processor.c -o processor
 ./processor
